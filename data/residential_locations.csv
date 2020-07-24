@@ -1,0 +1,41 @@
+City,Freq,State,Lat,Long
+Petaluma,1,CA,38.2324,-122.6367
+Calistoga,1,CA,38.5788,-122.5797
+Sausalito,1,CA,37.8591,-122.4853
+San Francisco,1,CA,37.7749,-122.4194
+San Bruno,1,CA,37.6305,-122.4111
+Millbrae,1,CA,37.5985,-122.3872
+San Mateo,1,CA,37.563,-122.3255
+La Honda,1,CA,37.319,-122.2742
+Oakland,2,CA,37.8044,-122.2711
+Emerald Hills,1,CA,37.4647,-122.268
+San Carlos,1,CA,37.5072,-122.2605
+Woodside,1,CA,37.4299,-122.2539
+Redwood City,3,CA,37.4852,-122.2364
+Atherton,3,CA,37.4613,-122.1977
+Menlo Park,6,CA,37.453,-122.1817
+Stanford ,3,CA,37.4275,-122.1697
+Palo Alto,10,CA,37.4419,-122.143
+Los Altos Hills,1,CA,37.3797,-122.1375
+Los Altos   ,1,CA,37.3852,-122.1141
+Mountain View,5,CA,37.3861,-122.0839
+Walnut Creek,1,CA,37.9101,-122.0652
+Union City,1,CA,37.5934,-122.0438
+Newark,1,CA,37.5297,-122.0402
+Sunnyvale,2,CA,37.3688,-122.0363
+Cupertino,3,CA,37.323,-122.0322
+Saratoga,6,CA,37.2638,-122.023
+Danville,1,CA,37.8216,-122
+Fremont,2,CA,37.5483,-121.9886
+Los Gatos,1,CA,37.2358,-121.9624
+Santa Clara,1,CA,37.3541,-121.9552
+Campbell,3,CA,37.2872,-121.95
+Milpitas,1,CA,37.4323,-121.8996
+San Jose,14,CA,37.3382,-121.8863
+Pleasanton,1,CA,37.6624,-121.8747
+Livermore,1,CA,37.6819,-121.768
+Hollister,2,CA,36.8525,-121.4016
+San Luis Obispo,2,CA,35.2828,-120.6596
+Ventura,1,CA,34.2805,-119.2945
+San Diego,2,CA,32.7157,-117.1611
+Others,14,,,
